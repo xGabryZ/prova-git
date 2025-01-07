@@ -28,3 +28,15 @@ clono in locale un repository remota
 
 ### git pull
 Aggiorno la repository con le modifiche presenti su quella remota
+
+### git branch(senza nome)
+mi dice su che branch mi trovo 
+
+### git branch (nome)
+crea una branch con quel nome
+
+### git checkout (nome branch)
+mi sposto sulla branch (nome)
+
+### git merge (nome branch che voglio fondere)
+mi sposto per esempio nella branch principale e se voglio mergare con la branch secondaria faccio merge branch secondaria
